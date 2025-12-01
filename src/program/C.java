@@ -6,6 +6,7 @@ public class C {
 
 		System.out.println("Pushing to branch");
 		System.out.println("Second time");
+		System.out.println("Third commit");
 	}
 
 }
